@@ -2,9 +2,9 @@ Setup instructions:
 
 1. Open bash/powershell/cmd in current directory
 2. python -m venv myenv
-    source myenv/bin/activate  # On macOS/Linux
-    myenv\Scripts\activate     # On Windows
-   pip install -r requirements.txt
+    - source myenv/bin/activate  # On macOS/Linux
+    - myenv\Scripts\activate     # On Windows
+   - pip install -r requirements.txt
 3. run "python setup.py"
 4. Click on top address generated to go to chatbot UI
 
