@@ -7,3 +7,6 @@ Setup instructions:
 Software Requirements:
 - Python3
 - Docker
+
+
+![Emergent AI](https://github.com/user-attachments/assets/0c899c3a-af67-4479-a307-aae71d06b5ca)
