@@ -11,4 +11,4 @@ Software Requirements:
 
 ![Emergent AI](https://github.com/user-attachments/assets/0c899c3a-af67-4479-a307-aae71d06b5ca)
 
-Emergent.AI is a disaster scenario response assistant when there is no professional response service. This is meant to be a last resort when emergency services are unavailable.
+Emergent.AI is a disaster scenario response assistant when there is no professional response service. This is meant to be a last resort when emergency services are unavailable. It follows Red Cross and FEMA first-aid guidelines.
