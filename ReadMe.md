@@ -5,5 +5,5 @@ Setup instructions:
 3. Click on top address generated to go to chatbot UI
 
 Software Requirements:
-Python3
-Docker
+- Python3
+- Docker
